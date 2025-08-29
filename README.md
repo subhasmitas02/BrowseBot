@@ -31,8 +31,7 @@ BrowseBot is a smart, fast, and private search engine built with React. It offer
 
 - Autocomplete suggestions for search input  
 - Save recent searches locally using `localStorage`  
-- Add “Did you mean...” feature to suggest corrections  
-- Support filters for image, video, and news results   
+- Add “Did you mean...” feature to suggest corrections    
 
 ---
 
