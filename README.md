@@ -37,3 +37,4 @@ BrowseBot is a smart, fast, and private search engine built with React. It offer
 ---
 
 Built by [SUbhasmita Sahu] • © 2025
+
